@@ -14,3 +14,28 @@ Este trabajo está protegido bajo la licencia **Creative Commons Atribución-NoC
 Para ver una copia oficial de esta licencia, visita: http://creativecommons.org
 
 Copyright (c) 2026 DQC
+
+=======================================================================================================
+-------------------------------------------------------------------------------------------------------
+_______________________________________________________________________________________________________
+-------------------------------------------------------------------------------------------------------
+=======================================================================================================
+
+
+This work is protected under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
+
+What others CAN do:
+Share: Copy and redistribute the material in any medium or format.
+
+The licensor (me) cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following MANDATORY CONDITIONS:
+Attribution (BY): You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+NonCommercial (NC): You may not use the material for commercial purposes.
+
+NoDerivatives (ND): If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+To view an official copy of this license, visit: http://creativecommons.org
+
+Copyright (c) 2026 DQC
