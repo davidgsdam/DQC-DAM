@@ -1,0 +1,1 @@
+A continuacion en esta carpeta metere todos los ejercicios que hare yo por mi cuenta comentando el codigo buscando informacion etc
